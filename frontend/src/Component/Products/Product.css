@@ -1,0 +1,51 @@
+.product-container{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product-info{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 420px;
+    
+}
+
+.product-info-update{
+    display: flex;
+    flex-direction: column;
+    height: 420px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.searchProduct{
+    margin-top: 10px;
+
+}
+.searchInput{
+    border: none;
+    outline: none;
+   
+    border-bottom: 2px solid black;
+    font-size: 1.2rem;
+    width: 170px;
+
+}
+.pagination-buttons{
+
+}
+.pagination-buttons>button,.search-btn{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    font-size: 1.1rem;
+}
+.pagination-buttons>button:hover,.search-btn:hover{
+    cursor: pointer;
+}

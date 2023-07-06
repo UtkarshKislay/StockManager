@@ -1,0 +1,50 @@
+.logo{
+  background-color: #00539CFF;
+  min-height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.logo-img{
+  margin-left: 10px;
+  height: 140px;
+  color: white;
+}
+.logo-content{
+    width: 80%;
+    height: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title>h1,.title>p{
+    color: white;
+}
+.title>h1{
+    color: #EEA47FFF;
+}
+.title>p{
+    color:white;
+}
+
+@media (max-width:1000px) {
+     .logo-content{
+        flex-direction: column;
+     }
+     .logo{
+        padding-bottom: 10px;
+     }
+}
+
+
+/* Royal Blue (#00539CFF) and Peach (#EEA47FFF) */

@@ -1,0 +1,193 @@
+[
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S21",
+      "category": "Mobile Phones",
+      "price": 999.99,
+      "description": "The Samsung Galaxy S21 is a flagship smartphone that combines cutting-edge technology, stunning design, and powerful performance. It features a high-resolution display, an advanced camera system, and seamless connectivity."
+    },
+    {
+      "id": 2,
+      "name": "LG OLED TV",
+      "category": "Televisions",
+      "price": 1499.99,
+      "description": "The LG OLED TV offers a breathtaking viewing experience with its vibrant colors, deep blacks, and ultra-thin design. It supports advanced features such as HDR, Dolby Vision, and smart TV functionality."
+    },
+    {
+      "id": 3,
+      "name": "Apple MacBook Pro",
+      "category": "Laptops",
+      "price": 1999.99,
+      "description": "The Apple MacBook Pro is a powerful and sleek laptop designed for professionals. It boasts a high-resolution Retina display, fast processors, ample storage, and a responsive keyboard and trackpad."
+    },
+    {
+      "id": 4,
+      "name": "Sony PlayStation 5",
+      "category": "Gaming Consoles",
+      "price": 499.99,
+      "description": "The Sony PlayStation 5 is the next-generation gaming console that delivers immersive gaming experiences with its powerful hardware and stunning graphics. It supports ray-tracing, ultra-fast loading times, and a variety of exciting games."
+    },
+    {
+      "id": 5,
+      "name": "Canon EOS R5",
+      "category": "Cameras",
+      "price": 3499.99,
+      "description": "The Canon EOS R5 is a professional mirrorless camera that pushes the boundaries of imaging technology. It offers high-resolution stills, 8K video recording, advanced autofocus, and built-in image stabilization."
+    },
+    {
+      "id": 6,
+      "name": "Bose QuietComfort 35 II",
+      "category": "Headphones",
+      "price": 299.99,
+      "description": "The Bose QuietComfort 35 II is a premium wireless headphone that provides exceptional noise cancellation, comfortable fit, and impressive audio quality. It offers seamless integration with voice assistants and long battery life."
+    },
+    {
+      "id": 7,
+      "name": "Dyson V11 Absolute",
+      "category": "Home Appliances",
+      "price": 699.99,
+      "description": "The Dyson V11 Absolute is a cordless vacuum cleaner that delivers powerful suction, intelligent cleaning modes, and long battery life. It effectively captures allergens and provides hassle-free cleaning."
+    },
+    {
+      "id": 8,
+      "name": "Samsung 4K QLED TV",
+      "category": "Televisions",
+      "price": 1299.99,
+      "description": "The Samsung 4K QLED TV offers stunning visuals with its Quantum Dot technology and 4K resolution. It delivers vibrant colors, deep blacks, and impressive contrast for a cinematic viewing experience."
+    },
+    {
+      "id": 9,
+      "name": "Fitbit Versa 3",
+      "category": "Wearable Technology",
+      "price": 229.99,
+      "description": "The Fitbit Versa 3 is a versatile smartwatch that tracks your activity, heart rate, and sleep. It features built-in GPS, voice assistant support, and a vibrant AMOLED display for convenient fitness and lifestyle monitoring."
+    },
+    {
+      "id": 10,
+      "name": "Nespresso VertuoPlus",
+      "category": "Coffee Machines",
+      "price": 179.99,
+      "description": "The Nespresso VertuoPlus is a premium coffee machine that brews delicious, barista-quality coffee with a single touch. It offers a wide range of coffee sizes and flavors, and its sleek design complements any kitchen."
+    },
+    {
+      "id": 11,
+      "name": "Sony WH-1000XM4",
+      "category": "Headphones",
+      "price": 349.99,
+      "description": "The Sony WH-1000XM4 is a top-of-the-line wireless headphone that delivers exceptional sound quality and industry-leading noise cancellation. It offers long battery life, touch controls, and customizable sound settings."
+    },
+    {
+      "id": 12,
+      "name": "LG UltraWide Monitor",
+      "category": "Monitors",
+      "price": 799.99,
+      "description": "The LG UltraWide Monitor provides an immersive viewing experience with its ultrawide aspect ratio and high-resolution display. It offers multitasking capabilities, accurate color reproduction, and versatile connectivity options."
+    },
+    {
+      "id": 13,
+      "name": "Apple AirPods Pro",
+      "category": "Headphones",
+      "price": 249.99,
+      "description": "The Apple AirPods Pro are premium wireless earbuds that deliver immersive sound, active noise cancellation, and a comfortable fit. They offer seamless integration with Apple devices and convenient touch controls."
+    },
+    {
+      "id": 14,
+      "name": "Samsung 65-Inch 8K QLED TV",
+      "category": "Televisions",
+      "price": 3499.99,
+      "description": "The Samsung 65-Inch 8K QLED TV provides an unparalleled visual experience with its 8K resolution and Quantum HDR technology. It offers incredible detail, vibrant colors, and precise contrast for a true cinematic experience."
+    },
+    {
+      "id": 15,
+      "name": "Nintendo Switch",
+      "category": "Gaming Consoles",
+      "price": 299.99,
+      "description": "The Nintendo Switch is a versatile gaming console that allows you to play games on-the-go or connect it to your TV for a traditional gaming experience. It offers a vast library of games and supports multiplayer gaming."
+    },
+    {
+      "id": 16,
+      "name": "Sony Alpha A7 III",
+      "category": "Cameras",
+      "price": 1999.99,
+      "description": "The Sony Alpha A7 III is a full-frame mirrorless camera that combines exceptional image quality, advanced autofocus, and impressive low-light performance. It offers 4K video recording and a wide range of compatible lenses."
+    },
+    {
+      "id": 17,
+      "name": "Microsoft Surface Pro 7",
+      "category": "Laptops",
+      "price": 1299.99,
+      "description": "The Microsoft Surface Pro 7 is a versatile 2-in-1 laptop that offers the power of a laptop and the flexibility of a tablet. It features a high-resolution touchscreen, a detachable keyboard, and long battery life."
+    },
+    {
+      "id": 18,
+      "name": "Bose SoundLink Revolve+",
+      "category": "Speakers",
+      "price": 299.99,
+      "description": "The Bose SoundLink Revolve+ is a portable Bluetooth speaker that delivers 360-degree sound, deep bass, and impressive battery life. It's designed to provide immersive audio both indoors and outdoors."
+    },
+    {
+      "id": 19,
+      "name": "Sony Bravia OLED TV",
+      "category": "Televisions",
+      "price": 2499.99,
+      "description": "The Sony Bravia OLED TV offers unparalleled picture quality with its OLED panel, deep blacks, and wide color gamut. It supports HDR, Dolby Vision, and advanced motion processing for an immersive viewing experience."
+    },
+    {
+      "id": 20,
+      "name": "Dyson Supersonic Hair Dryer",
+      "category": "Personal Care",
+      "price": 399.99,
+      "description": "The Dyson Supersonic Hair Dryer is a premium hair styling tool that combines powerful airflow, precise heat control, and a sleek design. It offers fast drying while minimizing heat damage to your hair."
+    },
+    {
+      "id": 21,
+      "name": "LG Gram Laptop",
+      "category": "Laptops",
+      "price": 1499.99,
+      "description": "The LG Gram Laptop is an ultra-lightweight and portable laptop that provides excellent performance and long battery life. It features a high-resolution display, a responsive keyboard, and a durable build."
+    },
+    {
+      "id": 22,
+      "name": "GoPro Hero 9 Black",
+      "category": "Action Cameras",
+      "price": 449.99,
+      "description": "The GoPro Hero 9 Black is a versatile action camera that captures stunning 5K video and high-resolution photos. It offers advanced stabilization, a front-facing display, and a rugged design for outdoor adventures."
+    },
+    {
+      "id": 23,
+      "name": "Samsung Galaxy Watch 4",
+      "category": "Wearable Technology",
+      "price": 299.99,
+      "description": "The Samsung Galaxy Watch 4 is a stylish smartwatch that tracks your fitness, monitors your health, and keeps you connected. It features a vibrant AMOLED display, multiple workout modes, and advanced sleep tracking."
+    },
+    {
+      "id": 24,
+      "name": "Bose QuietComfort Earbuds",
+      "category": "Headphones",
+      "price": 279.99,
+      "description": "The Bose QuietComfort Earbuds are premium true wireless earbuds that offer exceptional noise cancellation, immersive sound, and a comfortable fit. They provide long battery life and convenient touch controls."
+    },
+    {
+      "id": 25,
+      "name": "Apple iPad Air",
+      "category": "Tablets",
+      "price": 599.99,
+      "description": "The Apple iPad Air is a versatile tablet that combines a stunning Retina display, powerful performance, and iPadOS. It offers support for the Apple Pencil and Smart Keyboard, making it suitable for both productivity and entertainment."
+    }
+,
+    {
+        "id": 26,
+        "name": "LG OLED 4K Smart TV",
+        "category": "Televisions",
+        "price": 1999.99,
+        "description": "The LG OLED 4K Smart TV combines superior picture quality with advanced smart features. It features self-lit pixels for perfect blacks and infinite contrast, providing an immersive viewing experience."
+      },
+      {
+        "id": 27,
+        "name": "Sony Bravia 8K LED TV",
+        "category": "Televisions",
+        "price": 3499.99,
+        "description": "Experience breathtaking visuals with the Sony Bravia 8K LED TV. It boasts an 8K resolution and Triluminos Display for vibrant colors and lifelike images. Enjoy a theater-like experience in the comfort of your home."
+      }
+    ]
+   
