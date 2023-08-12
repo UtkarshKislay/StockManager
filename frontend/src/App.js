@@ -4,6 +4,7 @@ import Header from './Component/Header/Header';
 import Navbar from './Component/NavBar/Navbar';
 import Pages from './Component/Pages/index';
 function App() {
+  
   return (
     <div className="App">
          <Header/>

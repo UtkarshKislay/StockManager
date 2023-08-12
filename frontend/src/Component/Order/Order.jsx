@@ -1,8 +1,15 @@
-import React from 'react'
-
+import React, { useState } from 'react'
+import './Order.css';
+import OrderList from './OrderList';
+import Registraion from '../Registarion/Registraion';
 const Order = () => {
+  const [isRegistered,setIsRegistred]=useState(false);
   return (
-    <div>Order</div>
+    <div className='order'>
+      <div className="order-content">
+        
+      </div>
+    </div>
   )
 }
 
